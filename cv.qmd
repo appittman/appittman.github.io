@@ -1,0 +1,5 @@
+---
+title: "CV"
+---
+
+![](pittman_CV.pdf)

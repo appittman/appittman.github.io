@@ -1,0 +1,17 @@
+---
+title: ""
+about:
+  template: jolla
+  image: profpic.jpeg
+  links:
+    - icon: github
+      href: https://github.com/appittman
+    - text: CV
+      href: cv.qmd
+---
+
+Hi! I'm AP, and I'm a Sociology Ph.D. candidate at Duke. I study **differences between U.S. states' policies and politics**, and how those differences manifest in **population health outcomes** like rates of anxiety/depression and infant mortality rates.
+
+If you're interested in my research, you'll find links to my CV and my Github below.
+
+If you're interested in me, personally, here's a few tidbits: my pronouns are they/them; I'm from Cincinnati, OH, but currently live in Durham, NC with my partner and my cat; and I am weirdly proud of my taste in music, but not proud enough to post a link to my Spotify on this page - you'll have to email me for that.
