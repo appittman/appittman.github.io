@@ -1,6 +1,175 @@
 ---
-title: "CV"
+title: "AP Pittman"
+subtitle: "Ph.D. Candidate in Sociology · Duke University · Durham, NC · ap.pittman@duke.edu"
+author: ""
+date: ""
+title-block-style: default
+
+format:
+  html:
+    theme: none
+    css: styles.css
+    toc: false
+    page-layout: full
+    self-contained: true
+    smooth-scroll: true
+    anchor-sections: false
+    code-fold: false
+    code-tools: false
+
+execute:
+  echo: false
+  warning: false
+  message: false
 ---
 
-![](pittman_CV.pdf){width=100% height=100%}
+## Education
 
+### Duke University — Durham, NC
+
+**Doctor of Philosophy, Department of Sociology**  
+Expected 2027
+
+**Dissertation:** *State-Level Sociopolitical Contexts and Population Health*
+
+**Committee:** Dr. Hedwig Lee (co-chair), Dr. Tyson Brown (co-chair), Dr. Scott Lynch, Dr. Christopher Wildeman
+
+### Miami University — Oxford, OH
+
+**Master of Gerontological Studies, Department of Sociology and Gerontology**  
+Awarded 2021
+
+**Thesis:** *Structure, Sustainability, and Success: Interviews with Nine Age-Friendly Communities in Ohio*
+
+**Advisors:** Dr. Suzanne R. Kunkel & Dr. Jennifer Kinney
+
+### Miami University — Oxford, OH
+
+**Bachelor of Arts, Sociology, Department of Sociology and Gerontology**  
+Awarded 2019
+
+University Honors with Distinction, *summa cum laude*
+
+## Research Interests
+
+Quantitative methodology, population health, social policy, public sociology, sociology of health & medicine
+
+## Teaching Interests
+
+Introductory sociology, research methods, introductory & advanced statistical methods for social scientists, data wrangling and visualization, demography, structural inequality, health disparities
+
+## Peer-Reviewed Publications
+
+- Sun, Na, Ziyao Xu, Cassandra L. Hua, Xiao Qiu, **AP Pittman**, Basel Abdou, and J. Scott Brown (2023). “Self-Perception of Aging and Perceived Medical Discrimination.” *Journal of the American Geriatrics Society*, 71(10).
+- Bulanda, J. R., and **AP Pittman**. (2020). “In Pursuit of Justice in U.S. Health Care Policy: Pathways to Universal Coverage.” In G. W. Muschert, K. M. Budd, M. Christian, & R. Perrucci (Eds.), *Agenda for Social Justice: Solutions for 2020* (pp. 43–51). Policy Press.
+
+## Papers Under Review
+
+- Poteat, T. C., **AP Pittman**\*, Ashleigh Rich, Mannat Malik, Andrea L. Wirtz, Asa E. Radix, Jowanna Malone, Kenneth H. Mayer, and Sari L. Reisner. “Minority Stress and Mental Health in a Longitudinal Cohort of Black and Latina Transgender Women with HIV in the U.S.: Findings from the LITE Plus Study.” R&R, *Health Psychology & Behavioral Medicine*.  
+  \*Co-first authors
+- **Pittman, AP**, Daichi Hibi, Michael Cao, Isabella Bouklas, David Rigby, Tim A. Bruckner, Joan A. Casey, Allison Stolte, Alison Gemmill, and Hedwig E. Lee. “State-Level Trends in Community Supervision and Infant Mortality, 2001–2018.” Under review, *Population Research and Policy Review*.
+
+## Papers in Progress
+
+- **Pittman, AP**. “Anti-Trans Laws and Mental Health.” *Working paper.*
+- **Pittman, AP**. “Abortion Protections and Mental Health: Evidence from Ohio.” *Working paper.*
+- **Pittman, AP**. “Partisan Gerrymandering and Infant Mortality.” *Working paper.*
+- Poteat, T. C., Mary Anne Adams, **AP Pittman**, Porsha Hall, and Jennifer Horne. “Characterizing History of Social Service Usage and Self-Rated Health During the Early COVID-19 Pandemic Among Older Racially Diverse Sexual Minority Women in the U.S.” *Working paper.*
+- **Pittman, AP**, Daichi Hibi, Michael Cao, Tim A. Bruckner, Hedy E. Lee. “Heterogenous Effects of the Killing of Amadou Diallo on Black Infant Health.” *Working paper.*  
+- Daichi Hibi, **AP Pittman**, Isabella Bouklas, Michael Cao, Fatima Fairfax, David Rigby, Tim A. Bruckner, and Hedwig E. Lee. “Change Over Time in Correctional Regimes in U.S. States: The Joint Roles of Probation and Incarceration.” *In progress.*
+
+## Conference Presentations
+
+- **Interdisciplinary Association for Population Health Science**, September 2026 (Portland, OR). “Partisan Gerrymandering and Infant Mortality.” *Paper session*
+- **American Sociological Association**, August 2026 (New York, NY). “Partisan Gerrymandering and Infant Mortality.” *Paper session*
+- **Population Association of America**, May 2026 (St. Louis, MO). “Change Over Time in Correctional Regimes in U.S. States: The Joint Roles of Probation and Incarceration.” *Paper session*
+- **Mortality and Criminal Legal System Contact Conference**, September 2025 (Ithaca, NY). “State-Level Trends in Community Supervision and Infant Mortality, 2001–2018.” *Invited paper session*
+- **Interdisciplinary Association for Population Health Science**, September 2025 (Pittsburgh, PA). “State-Level Trends in Community Supervision and Infant Mortality, 2001–2018.” *Poster session*
+- **American Sociological Association**, August 2025 (Chicago, IL). “Abortion Protections and Mental Health: Evidence from Ohio.” *Paper session*
+- **Population Association of America**, April 2025 (Washington, DC). “Anti-Trans Laws and Mental Health: Spillover Effects.” *Poster session*
+- **American Sociological Association**, August 2024 (Montreal, QC). “Anti-Trans Laws and Mental Health: Spillover Effects.” *Roundtable session*
+- **American Sociological Association**, August 2022 (Los Angeles, CA). “Socioeconomic Status, Health Insurance, and Utilization: Lessons from the Medicare Population.” *Paper session*
+- **American Sociological Association**, August 2020 (San Francisco, CA). “Depression in Later Life: Theoretical Perspectives and Practical Applications.” *Session canceled due to COVID-19*
+- **American Sociological Association**, August 2019 (New York City, NY). “The Effect of Language on the Utilization of Health Care Services.” *Paper session*
+
+## Fellowships, Workshops, and Honors
+
+\*Indicates a competitive selection process.
+
+- Program for Advanced Research in the Social Sciences (PARISS) Fellow, 2026–27*
+- Constellations Graduate Fellow, 2025–26*
+- NextGenPop Lead Research Assistant, 2024*
+- Duke Summer Research Fellowship, 2022, 2023
+- University of Michigan Genomics for Social Scientists Workshop Participant, 2022*
+- Honors with Distinction, Miami University, 2019
+- Departmental Honors in Sociology, Miami University, 2019
+- Phi Beta Kappa, Miami University, 2019
+- Alpha Kappa Delta, Miami University, 2018
+
+## Teaching
+
+### Instructor of Record
+
+- **SOC 318 (Sociology of Aging)** — Miami University, Fall 2020
+
+### Teaching Assistant
+
+- **SOCIOL 257 (Sociology of Mental Health)** — Duke University, Spring 2024
+- **SOCIOL 250 (Medical Sociology)** — Duke University, Spring 2023, Fall 2023
+- **SOCIOL 344 (Technology and Organizations)** — Duke University, Fall 2022
+- **SOC 318 (Sociology of Aging)** — Miami University, Fall 2019, Spring 2020
+- **SOC 153 (Introduction to Sociology) (UA)** — Miami University, Spring 2019
+
+### Guest Lectures and Workshops
+
+- “File Management, Version Control, and Understanding Your Computer.”  
+  For Undergraduate Social Science Senior Thesis Writers — Duke University, October 2026
+- “A Practical Introduction to Qualitative Research and Coding Practices.”  
+  For RISE Lab researchers — Duke University School of Nursing, April 2026
+- “Introduction to Structural Racism.”  
+  In AAAS 102 (Introduction to African American Studies) — Duke University, September 2024
+- “Ageism and Mental Health.”  
+  In SOCIOL 257 (Sociology of Mental Health) — Duke University, April 2024
+
+### Mentorship Experience
+
+#### Mentorship of Post-Baccalaureate Researcher — Duke University
+
+**2024–2026**
+
+Taught and mentored a post-bac researcher in the lab of Dr. Hedwig E. Lee, imparting the fundamentals of advanced social science research and team science, including academic writing, editing and collaboration, and construction of advanced research questions.
+
+#### Constellations Fellow — Duke University
+
+**2025–2026**
+
+Assisted in the development and implementation of an interdisciplinary liberal arts curriculum for first-year undergraduate students focused on inequalities and global histories; designed and administered formative assessments of experiential learning activities.
+
+#### NextGenPop Graduate Student Mentor
+
+**2024–2025**
+
+Led a group of 21 students in the NextGenPop program; responsibilities included teaching key research skills, including formulating a research question, constructing a presentation, and developing a research project, as well as providing guidance for applying to graduate school and professionalization.
+
+#### Undergraduate Tutor — Miami University
+
+**2017–2019**
+
+Provided 1-on-1 and group tutoring to undergraduate students in introductory and intermediate Spanish, introductory Physics, introductory Biology, introductory Chemistry, and Math courses up to Calculus II.
+
+## Academic Service
+
+### Research Assistantships
+
+- Research assistant, Dr. Hedwig E. Lee, Duke University Department of Sociology, 2024–present
+- Research assistant, RISE Lab, Dr. Tonia Poteat, Duke University School of Nursing, 2024–present
+
+### Duke University Sociology Department Graduate Student Forum
+
+- Social Chair, 2021–22, 2022–23, 2024–25, 2025–26
+- Prospective Student Visit Coordinator, 2023–24
+
+## Miscellanea
+
+- **Programming Skills:** R, Mplus, SAS
+- **Professional Association Memberships:** American Sociological Association (ASA), Population Association of America (PAA), Society for the Study of Social Problems (SSSP), Interdisciplinary Association for Population Health Science (IAPHS)
