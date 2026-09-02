@@ -8,7 +8,7 @@ title-block-style: default
 format:
   html:
     theme: none
-    css: styles.css
+    css: cv.css
     toc: false
     page-layout: full
     self-contained: true
@@ -27,7 +27,7 @@ execute:
 
 ### Duke University — Durham, NC
 
-**Doctor of Philosophy, Department of Sociology**  
+**Doctor of Philosophy, Department of Sociology**\
 Expected 2027
 
 **Dissertation:** *State-Level Sociopolitical Contexts and Population Health*
@@ -36,7 +36,7 @@ Expected 2027
 
 ### Miami University — Oxford, OH
 
-**Master of Gerontological Studies, Department of Sociology and Gerontology**  
+**Master of Gerontological Studies, Department of Sociology and Gerontology**\
 Awarded 2021
 
 **Thesis:** *Structure, Sustainability, and Success: Interviews with Nine Age-Friendly Communities in Ohio*
@@ -45,7 +45,7 @@ Awarded 2021
 
 ### Miami University — Oxford, OH
 
-**Bachelor of Arts, Sociology, Department of Sociology and Gerontology**  
+**Bachelor of Arts, Sociology, Department of Sociology and Gerontology**\
 Awarded 2019
 
 University Honors with Distinction, *summa cum laude*
@@ -65,7 +65,7 @@ Introductory sociology, research methods, introductory & advanced statistical me
 
 ## Papers Under Review
 
-- Poteat, T. C., **AP Pittman**\*, Ashleigh Rich, Mannat Malik, Andrea L. Wirtz, Asa E. Radix, Jowanna Malone, Kenneth H. Mayer, and Sari L. Reisner. “Minority Stress and Mental Health in a Longitudinal Cohort of Black and Latina Transgender Women with HIV in the U.S.: Findings from the LITE Plus Study.” R&R, *Health Psychology & Behavioral Medicine*.  
+- Poteat, T. C., **AP Pittman**\*, Ashleigh Rich, Mannat Malik, Andrea L. Wirtz, Asa E. Radix, Jowanna Malone, Kenneth H. Mayer, and Sari L. Reisner. “Minority Stress and Mental Health in a Longitudinal Cohort of Black and Latina Transgender Women with HIV in the U.S.: Findings from the LITE Plus Study.” R&R, *Health Psychology & Behavioral Medicine*.\
   \*Co-first authors
 - **Pittman, AP**, Daichi Hibi, Michael Cao, Isabella Bouklas, David Rigby, Tim A. Bruckner, Joan A. Casey, Allison Stolte, Alison Gemmill, and Hedwig E. Lee. “State-Level Trends in Community Supervision and Infant Mortality, 2001–2018.” Under review, *Population Research and Policy Review*.
 
@@ -75,7 +75,7 @@ Introductory sociology, research methods, introductory & advanced statistical me
 - **Pittman, AP**. “Abortion Protections and Mental Health: Evidence from Ohio.” *Working paper.*
 - **Pittman, AP**. “Partisan Gerrymandering and Infant Mortality.” *Working paper.*
 - Poteat, T. C., Mary Anne Adams, **AP Pittman**, Porsha Hall, and Jennifer Horne. “Characterizing History of Social Service Usage and Self-Rated Health During the Early COVID-19 Pandemic Among Older Racially Diverse Sexual Minority Women in the U.S.” *Working paper.*
-- **Pittman, AP**, Daichi Hibi, Michael Cao, Tim A. Bruckner, Hedy E. Lee. “Heterogenous Effects of the Killing of Amadou Diallo on Black Infant Health.” *Working paper.*  
+- **Pittman, AP**, Daichi Hibi, Michael Cao, Tim A. Bruckner, Hedy E. Lee. “Heterogenous Effects of the Killing of Amadou Diallo on Black Infant Health.” *Working paper.*\
 - Daichi Hibi, **AP Pittman**, Isabella Bouklas, Michael Cao, Fatima Fairfax, David Rigby, Tim A. Bruckner, and Hedwig E. Lee. “Change Over Time in Correctional Regimes in U.S. States: The Joint Roles of Probation and Incarceration.” *In progress.*
 
 ## Conference Presentations
@@ -96,11 +96,11 @@ Introductory sociology, research methods, introductory & advanced statistical me
 
 \*Indicates a competitive selection process.
 
-- Program for Advanced Research in the Social Sciences (PARISS) Fellow, 2026–27*
-- Constellations Graduate Fellow, 2025–26*
-- NextGenPop Lead Research Assistant, 2024*
+- Program for Advanced Research in the Social Sciences (PARISS) Fellow, 2026–27\*
+- Constellations Graduate Fellow, 2025–26\*
+- NextGenPop Lead Research Assistant, 2024\*
 - Duke Summer Research Fellowship, 2022, 2023
-- University of Michigan Genomics for Social Scientists Workshop Participant, 2022*
+- University of Michigan Genomics for Social Scientists Workshop Participant, 2022\*
 - Honors with Distinction, Miami University, 2019
 - Departmental Honors in Sociology, Miami University, 2019
 - Phi Beta Kappa, Miami University, 2019
@@ -122,13 +122,13 @@ Introductory sociology, research methods, introductory & advanced statistical me
 
 ### Guest Lectures and Workshops
 
-- “File Management, Version Control, and Understanding Your Computer.”  
+- “File Management, Version Control, and Understanding Your Computer.”\
   For Undergraduate Social Science Senior Thesis Writers — Duke University, October 2026
-- “A Practical Introduction to Qualitative Research and Coding Practices.”  
+- “A Practical Introduction to Qualitative Research and Coding Practices.”\
   For RISE Lab researchers — Duke University School of Nursing, April 2026
-- “Introduction to Structural Racism.”  
+- “Introduction to Structural Racism.”\
   In AAAS 102 (Introduction to African American Studies) — Duke University, September 2024
-- “Ageism and Mental Health.”  
+- “Ageism and Mental Health.”\
   In SOCIOL 257 (Sociology of Mental Health) — Duke University, April 2024
 
 ### Mentorship Experience
