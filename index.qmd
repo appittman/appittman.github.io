@@ -10,7 +10,7 @@ about:
       href: cv.qmd
 ---
 
-Hi! I'm AP, and I'm a Sociology Ph.D. candidate at Duke. I study **differences between U.S. states' policies and politics**, and how those differences manifest in **population health outcomes** like rates of anxiety/depression and infant mortality rates.
+Hi! I'm AP, and I'm a Sociology Ph.D. candidate at Duke. I study **differences between U.S. states' policies and politics**, and how those differences manifest in **population health outcomes** like rates of anxiety & depression and infant mortality rates.
 
 If you're interested in my research, you'll find links to my CV and my Github below.
 
