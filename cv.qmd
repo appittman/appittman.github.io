@@ -16,6 +16,7 @@ format:
     anchor-sections: false
     code-fold: false
     code-tools: false
+  pdf: default
 
 execute:
   echo: false
@@ -68,12 +69,12 @@ Introductory sociology, research methods, introductory & advanced statistical me
 - Poteat, T. C., **AP Pittman**\*, Ashleigh Rich, Mannat Malik, Andrea L. Wirtz, Asa E. Radix, Jowanna Malone, Kenneth H. Mayer, and Sari L. Reisner. “Minority Stress and Mental Health in a Longitudinal Cohort of Black and Latina Transgender Women with HIV in the U.S.: Findings from the LITE Plus Study.” R&R, *Health Psychology & Behavioral Medicine*.\
   \*Co-first authors
 - **Pittman, AP**, Daichi Hibi, Michael Cao, Isabella Bouklas, David Rigby, Tim A. Bruckner, Joan A. Casey, Allison Stolte, Alison Gemmill, and Hedwig E. Lee. “State-Level Trends in Community Supervision and Infant Mortality, 2001–2018.” Under review, *Population Research and Policy Review*.
+- **Pittman, AP**. “Partisan Gerrymandering and Infant Mortality.” Under review, *Social Science and Medicine*.
 
 ## Papers in Progress
 
 - **Pittman, AP**. “Anti-Trans Laws and Mental Health.” *Working paper.*
 - **Pittman, AP**. “Abortion Protections and Mental Health: Evidence from Ohio.” *Working paper.*
-- **Pittman, AP**. “Partisan Gerrymandering and Infant Mortality.” *Working paper.*
 - Poteat, T. C., Mary Anne Adams, **AP Pittman**, Porsha Hall, and Jennifer Horne. “Characterizing History of Social Service Usage and Self-Rated Health During the Early COVID-19 Pandemic Among Older Racially Diverse Sexual Minority Women in the U.S.” *Working paper.*
 - **Pittman, AP**, Daichi Hibi, Michael Cao, Tim A. Bruckner, Hedy E. Lee. “Heterogenous Effects of the Killing of Amadou Diallo on Black Infant Health.” *Working paper.*\
 - Daichi Hibi, **AP Pittman**, Isabella Bouklas, Michael Cao, Fatima Fairfax, David Rigby, Tim A. Bruckner, and Hedwig E. Lee. “Change Over Time in Correctional Regimes in U.S. States: The Joint Roles of Probation and Incarceration.” *In progress.*
