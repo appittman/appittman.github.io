@@ -7,7 +7,7 @@ about:
     - icon: github
       href: https://github.com/appittman
     - text: CV
-      href: cv.qmd
+      href: cv.pdf
 ---
 
 Hi! I'm AP, and I'm a Sociology Ph.D. candidate at Duke. I study **differences between U.S. states' policies and politics**, and how those differences manifest in **population health outcomes** like rates of anxiety & depression and infant mortality rates.
