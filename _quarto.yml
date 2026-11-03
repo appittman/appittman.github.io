@@ -2,7 +2,7 @@ project:
   type: website
   output-dir: docs
   resources:
-    - cv_new.pdf
+    - Pittman_CV.pdf
 
 website:
   title: "AP Pittman"
