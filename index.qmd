@@ -10,8 +10,6 @@ about:
       href: Pittman_CV.pdf
 ---
 
-Hi! I'm AP, and I'm a Sociology Ph.D. candidate at Duke. I study **differences between U.S. states' policies and politics**, and how those differences manifest in **population health outcomes** like rates of anxiety & depression and infant mortality rates.
+Hi! I'm AP (they/them), a Sociology Ph.D. candidate at Duke. My scholarship is organized around two central questions: why do U.S. states enact and enforce some policies instead of others, and how does the enforcement of those policies impact population health in both intended and unintended ways?
 
-If you're interested in my research, you'll find links to my CV and my Github below.
-
-If you're interested in me, personally, here's a few tidbits: my pronouns are they/them; I'm from Cincinnati, OH, but currently live in Durham, NC with my partner and my cat; and I am weirdly proud of my taste in music, but not proud enough to post any playlists on this page - you'll have to email me for that.
+Links to my CV and Github are below; you can also find more information on my research and teaching by following the links in the header.
